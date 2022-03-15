@@ -40,7 +40,7 @@ class _BlindSearchResultScreenState extends State<BlindSearchResultScreen> {
           Align(
               alignment: AlignmentDirectional.topStart,
               child: Text(
-                'مطاعم',
+                'المطاعم',
               )),
           SizedBox(
             height: 33,
